@@ -14,7 +14,9 @@
     <version>1.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>websocket-demo1</module>
+        <module>websocket-tomcat</module>
+        <module>websocket-spring</module>
+        <module>websocket-stmop</module>
     </modules>
 
     <dependencies>
